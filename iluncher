@@ -1,10 +1,10 @@
 {
   "data": [
 {    
-      "admob_appopen":"123",
-      "admob_interstitial":"123",
-      "admob_native":"123",
-      "admob_banner":"123"
+      "admob_appopen":"ca-app-pub-3940256099942544/3419835294",
+      "admob_interstitial":"ca-app-pub-3940256099942544/1033173712",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111"
 }
 ]
 }
