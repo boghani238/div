@@ -1,1 +1,10 @@
-saf
+{
+  "data": [
+{    
+      "admob_appopen":"/21753324030,22780729941/com.iphoneluncher.iluncher.iosluncher.luncher_AppOpen",
+      "admob_interstitial":"/21753324030,22780729941/com.iphoneluncher.iluncher.iosluncher.luncher_Interstitial",
+      "admob_native":"/21753324030,22780729941/com.iphoneluncher.iluncher.iosluncher.luncher_Native",
+      "admob_banner":"/21753324030,22780729941/com.iphoneluncher.iluncher.iosluncher.luncher_Banner"
+}
+]
+}
