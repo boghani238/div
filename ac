@@ -1,9 +1,9 @@
 {
   "data": [
 {    
-      "admob_interstitial":"DDDDDca-app-pub-3940256099942544/1033173712",
-      "admob_native":"DDDDca-app-pub-3940256099942544/2247696110",
-      "admob_banner":"DDDDDDca-app-pub-3940256099942544/6300978111"
+      "admob_interstitial":"/21753324030,22824297189/com.universal.acremote.control_Interstitial",
+      "admob_native":"/21753324030,22824297189/com.universal.acremote.control_Native",
+      "admob_banner":"/21753324030,22824297189/com.universal.acremote.control_Banner"
 }
 ]
 }
